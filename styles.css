@@ -1,4 +1,10 @@
-p{
- display: inline-block;
+.header{
+  background-color: grey;
+  text-align: center;
+  width: auto;
+  color: white;
+
+}
+
 
 }
