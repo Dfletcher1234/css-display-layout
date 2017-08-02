@@ -5,11 +5,15 @@
   color: white;
 }
 
-.menu li {
-  display: inline;
+.menu ul {
   text-align: center;
-
-
-
+  text-decoration: none;
+  color: white;
 }
+.menu li {
+  color: white;
+  display: inline;
+  background-color: grey;
+  text-decoration: none;
+
 }
