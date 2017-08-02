@@ -1,10 +1,15 @@
 .header{
-  background-color: darkgrey;
+  background-color: grey;
   text-align: center;
   width: auto;
   color: white;
-
 }
 
+.menu li {
+  display: inline;
+  text-align: center;
 
+
+
+}
 }
