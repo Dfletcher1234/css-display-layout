@@ -10,10 +10,13 @@
   text-decoration: none;
   color: white;
 }
-.menu li {
+.menu li a{
   color: white;
-  display: inline;
   background-color: grey;
   text-decoration: none;
+
+}
+.menu li{
+  display: inline;
 
 }
