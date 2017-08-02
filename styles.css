@@ -1,22 +1,50 @@
 .header{
-  background-color: grey;
+  background-color: #262626;
   text-align: center;
+  font-size: 50px;
   width: auto;
+  height: 75px;
   color: white;
+  margin-bottom: 0;
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .menu ul {
   text-align: center;
   text-decoration: none;
   color: white;
+  margin-top: 0;
 }
 .menu li a{
   color: white;
-  background-color: grey;
+  background-color: #d8d8d8;
   text-decoration: none;
-
-}
+  height: 20px;
+  font-size: 30px;
+  }
 .menu li{
   display: inline;
+}
 
+.green {
+  background: #4ca6a6;
+  font-size: 30px;
+  height: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-weight: normal;
+}
+span{
+  font-weight: bold;
+  text-decoration: underline;
+}
+.image{
+  margin: 3px;
+  display: inline-block;
+  margin-left: 40px;
+  margin-right:
 }
