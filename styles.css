@@ -37,14 +37,32 @@
   padding-top: 20px;
   padding-bottom: 10px;
   font-weight: normal;
+  max-width: auto;
 }
 span{
   font-weight: bold;
   text-decoration: underline;
 }
-.image{
-  margin: 3px;
-  display: inline-block;
+.container,.container2{
   margin-left: 40px;
-  margin-right:
+  margin-right: 40px;
+  /*display: inline;*/
+  max-width: auto;
+  display: inline-block;
+}
+
+.image{
+  /*margin-bottom: 0px;*/
+}
+ .button {
+  background-color: yellow;
+  width: 480px;
+  display:inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 40px;
+  padding-top: 10px;
+
+
+
 }
