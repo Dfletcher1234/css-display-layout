@@ -1,5 +1,5 @@
 .header{
-  background-color: #262626;
+  background-color: #171d22;
   text-align: center;
   font-size: 50px;
   width: auto;
@@ -29,7 +29,7 @@
 }
 
 .green {
-  background: #4ca6a6;
+  background: #A3E4D7;
   font-size: 30px;
   height: 60px;
   margin-left: 40px;
@@ -42,14 +42,15 @@
 span{
   font-weight: bold;
   text-decoration: underline;
+  text-decoration-color: yellow;
 }
 .container,.container2{
   margin-left: 40px;
   margin-right: 40px;
   /*display: inline;*/
   max-width: auto;
-  display: inline-block;
-}
+  display:inline-block;
+  }
 
 .image{
   /*margin-bottom: 0px;*/
@@ -62,7 +63,19 @@ span{
   margin-right: auto;
   height: 40px;
   padding-top: 10px;
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 25px;
 
+}
 
+.copywrite{
+  background-color: black;
+  color: white;
+  height: 35x;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 24px;
+  padding-bottom: 24px;
 
 }
